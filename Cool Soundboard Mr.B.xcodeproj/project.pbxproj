@@ -14,6 +14,15 @@
 		F9A9ACD6293511D60088AF16 /* Cool_Soundboard_Mr_BTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9A9ACD5293511D60088AF16 /* Cool_Soundboard_Mr_BTests.swift */; };
 		F9A9ACE0293511D60088AF16 /* Cool_Soundboard_Mr_BUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9A9ACDF293511D60088AF16 /* Cool_Soundboard_Mr_BUITests.swift */; };
 		F9A9ACE2293511D60088AF16 /* Cool_Soundboard_Mr_BUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9A9ACE1293511D60088AF16 /* Cool_Soundboard_Mr_BUITestsLaunchTests.swift */; };
+		F9A9ACEF293512910088AF16 /* rick_roll.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9A9ACEE293512910088AF16 /* rick_roll.mp3 */; };
+		F9A9ACF1293512AA0088AF16 /* ah.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9A9ACF0293512AA0088AF16 /* ah.mp3 */; };
+		F9A9ACF3293512D70088AF16 /* dynamite.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9A9ACF2293512D60088AF16 /* dynamite.mp3 */; };
+		F9A9ACF5293512E30088AF16 /* talk_to_the_duck.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9A9ACF4293512E30088AF16 /* talk_to_the_duck.mp3 */; };
+		F9A9ACF7293512ED0088AF16 /* yes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9A9ACF6293512ED0088AF16 /* yes.mp3 */; };
+		F9A9ACF9293512FB0088AF16 /* no.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9A9ACF8293512FB0088AF16 /* no.mp3 */; };
+		F9A9ACFB293513040088AF16 /* slay.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9A9ACFA293513040088AF16 /* slay.mp3 */; };
+		F9A9ACFD293513100088AF16 /* period.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9A9ACFC293513100088AF16 /* period.mp3 */; };
+		F9A9ACFF2935131B0088AF16 /* sheesh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9A9ACFE2935131B0088AF16 /* sheesh.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +53,15 @@
 		F9A9ACDB293511D60088AF16 /* Cool Soundboard Mr.BUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cool Soundboard Mr.BUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9A9ACDF293511D60088AF16 /* Cool_Soundboard_Mr_BUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cool_Soundboard_Mr_BUITests.swift; sourceTree = "<group>"; };
 		F9A9ACE1293511D60088AF16 /* Cool_Soundboard_Mr_BUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cool_Soundboard_Mr_BUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F9A9ACEE293512910088AF16 /* rick_roll.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = rick_roll.mp3; sourceTree = "<group>"; };
+		F9A9ACF0293512AA0088AF16 /* ah.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ah.mp3; sourceTree = "<group>"; };
+		F9A9ACF2293512D60088AF16 /* dynamite.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dynamite.mp3; sourceTree = "<group>"; };
+		F9A9ACF4293512E30088AF16 /* talk_to_the_duck.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = talk_to_the_duck.mp3; sourceTree = "<group>"; };
+		F9A9ACF6293512ED0088AF16 /* yes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yes.mp3; sourceTree = "<group>"; };
+		F9A9ACF8293512FB0088AF16 /* no.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = no.mp3; sourceTree = "<group>"; };
+		F9A9ACFA293513040088AF16 /* slay.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = slay.mp3; sourceTree = "<group>"; };
+		F9A9ACFC293513100088AF16 /* period.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = period.mp3; sourceTree = "<group>"; };
+		F9A9ACFE2935131B0088AF16 /* sheesh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sheesh.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +115,15 @@
 				F9A9ACC4293511D40088AF16 /* Cool_Soundboard_Mr_BApp.swift */,
 				F9A9ACC6293511D40088AF16 /* ContentView.swift */,
 				F9A9ACC8293511D60088AF16 /* Assets.xcassets */,
+				F9A9ACEE293512910088AF16 /* rick_roll.mp3 */,
+				F9A9ACF0293512AA0088AF16 /* ah.mp3 */,
+				F9A9ACF2293512D60088AF16 /* dynamite.mp3 */,
+				F9A9ACF4293512E30088AF16 /* talk_to_the_duck.mp3 */,
+				F9A9ACF6293512ED0088AF16 /* yes.mp3 */,
+				F9A9ACF8293512FB0088AF16 /* no.mp3 */,
+				F9A9ACFA293513040088AF16 /* slay.mp3 */,
+				F9A9ACFC293513100088AF16 /* period.mp3 */,
+				F9A9ACFE2935131B0088AF16 /* sheesh.mp3 */,
 				F9A9ACCA293511D60088AF16 /* Preview Content */,
 			);
 			path = "Cool Soundboard Mr.B";
@@ -231,8 +258,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F9A9ACF5293512E30088AF16 /* talk_to_the_duck.mp3 in Resources */,
+				F9A9ACF9293512FB0088AF16 /* no.mp3 in Resources */,
+				F9A9ACFB293513040088AF16 /* slay.mp3 in Resources */,
+				F9A9ACEF293512910088AF16 /* rick_roll.mp3 in Resources */,
+				F9A9ACF7293512ED0088AF16 /* yes.mp3 in Resources */,
+				F9A9ACF1293512AA0088AF16 /* ah.mp3 in Resources */,
 				F9A9ACCC293511D60088AF16 /* Preview Assets.xcassets in Resources */,
+				F9A9ACF3293512D70088AF16 /* dynamite.mp3 in Resources */,
+				F9A9ACFF2935131B0088AF16 /* sheesh.mp3 in Resources */,
 				F9A9ACC9293511D60088AF16 /* Assets.xcassets in Resources */,
+				F9A9ACFD293513100088AF16 /* period.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
